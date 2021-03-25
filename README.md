@@ -1,5 +1,7 @@
 # ml21ProjWWoman
 
+**Team WWoman: Agbay (Leader), Rodrigo (Rapperteur), Valenzuela**
+
 Project Title: Quiz Bee Buzzer Timer and Points System with Host Control
 
 Project Description:
