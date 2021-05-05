@@ -23,3 +23,7 @@ Key Features:
 • Round and Break countdown timer: displays designated round and remaining time for round and breaks. During breaks, colon between minutes and seconds blinks.
 • Program Timer: because timer may be programmed to consecutively count foen and display time periods.
 • Clock/Alarm: displays time. when the current clock reaches the alarm time, an alarm will be activated.
+
+References:
+
+	1. "Quiz Game Show Buzzer Using Arduino". Internet:https://duino4projects.com/quiz-game-show-buzzer-using-arduino/, Dec. 03, 2014 [May 5, 2021].
