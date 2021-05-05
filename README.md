@@ -26,4 +26,4 @@ Key Features:
 
 References:
 
-1. "Quiz Game Show Buzzer Using Arduino". Internet:https://duino4projects.com/quiz-game-show-buzzer-using-arduino/, Dec. 03, 2014 [May 5, 2021].
+1. "Quiz Game Show Buzzer Using Arduino." Internet:https://duino4projects.com/quiz-game-show-buzzer-using-arduino/, Dec. 03, 2014 [May 5, 2021].
